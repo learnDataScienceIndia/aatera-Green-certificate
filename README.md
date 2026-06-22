@@ -1,1 +1,1 @@
-# aatera-Green-certificate
+# green-certificate
